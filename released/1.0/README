@@ -1,0 +1,72 @@
+ _               __  __ ____ ______
+| |        /\   |  \/  |  __ \_   _|
+| |       /  \  | \  / | |__) || |  
+| |      / /\ \ | |\/| |  ___/ | |  
+| |____ / ____ \| |  | | |    _| |_ 
+|______/_/    \_\_|  |_|_|   |_____| v1.0
+
+Creado por AlexDR15
+
+#####################################################################
+
+    LAMPI Copyright © 2016 AlexDR15
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#####################################################################
+
+LAMPI es un instalador automático de los servicios LAMP.
+
+Con este script, usted tendrá de forma facil y sencilla la 
+posibilidad de instalar los servicios web esenciales como 
+son Apache2, MySQL (+ libapache2-mod-auth-mysql), php5 
+(Complementos: php-pear php5-mysql php5-curl php5-gd php5-mcrypt) 
+y phpMyAdmin.
+
+Este Script está desarrollado para funcionar en la terminal Bash.
+
+USO DEL SCRIPT (Instalación):
+- Debe ejecutar este script con permisos de root (sudo ./lampi.sh)
+- Para que funcione correctamente, debe definirle los premisos 777 
+(Octal) al instalador (sudo chmod 777 -R ./lampi.sh)
+
+PROCESO (Para versión 1.0):
+1) Ejecute el Script (sudo ./lampi.sh)
+2) Lea los mesajes de IMPORTANTE, RECOMENDACIÓN y ADVERTENCIA.
+3) Se comprobará el sistema operativo desde el que se está 
+ejecuntando. Si este es incompatible, mostrará un error y cerrará.
+4) Si tras la comprobación del sistema operativo, no hay ningún 
+problema, entonces responda 'S' a la pregunta de Comenzar Ahora.
+5) Entonces comenzará la Preparación Inicial (Se Actualizarán los 
+repositorios y el sistema, y se instalaran los paquetes: 
+makepasswd, expect y curl).
+6) Después de esto se detendrá en preguntarle si quiere asignarle
+o no una contrasña que usted desee al Root de MySQL (Leala y 
+responda).
+7) Luego le pedirá que pulse Enter para comenzar la instalación de 
+los servicios LAMP (Pulse Enter).
+8) A partir de ahora no pulse ni responda a nada de lo que aparezca.
+9) Cuando llegue el apartado 'Securizando de phpMyAdmin' se le 
+preguntará el enlace que quiere usar para posteriormente acceder 
+a phpMyAdmin (Leala y responda).
+10) Tras esto se guardarán las credenciales en un archivo 
+(credenciales_lampi.txt) en la misma carpeta donde se está 
+ejecuntando LAMPI.
+11) [OPCIONAL] Ahora le preguntará si quiere desinstalar los 
+programas que se instalaron en el proceso 'Preparación Inicial'
+ya que estos fueron necesarios para la instalación.
+
+
+Este script está licenciado bajo GPL v3 (GNU GENERAL PUBLIC 
+LICENSE Version 3)
