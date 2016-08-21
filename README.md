@@ -1,5 +1,5 @@
 # LAMPI
-**An Automatic LAMP Auto Installer
+**An Automatic LAMP Auto Installer**
 
 LAMP Intsaller (LAMPI) es el instalador más sencillo de usar para montar tu servidor web de forma rápida.
 
