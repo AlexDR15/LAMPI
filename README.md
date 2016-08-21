@@ -9,7 +9,7 @@
 
 LAMP Intsaller (LAMPI) es el instalador más sencillo de usar para montar tu servidor web de forma rápida.
 
-Para toda la información detallada, pulse [Aquí](https://lampi.alexdr15.com/INFO.txt)
+Para toda la información detallada, pulse [Aquí](http://lampi.alexdr15.com/INFO.txt)
 
 #LICENCIA
 LAMPI Copyright © 2016 AlexDR15
@@ -27,11 +27,12 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-## v.1.0 (20/8/2016)
+## v.1.0 (21/8/2016)
 * Lanzamiento del script **inicial**
 * Compatibilidad Actual con: **Ubuntu 14.04**
 * Instalación desde usuario **root**
 * Idiomas Disponibles: **Español (Spanish)**
+* Paquetes que instala: **Apache2, MySQL (+ libapache2-mod-auth-mysql), php5 (Complementos: php-pear php5-mysql php5-curl php5-gd php5-mcrypt) y phpMyAdmin**
+* Paquetes complementarios que se instalan (Y después permite borrar): **makepasswd, expect y curl.**
 
-###Descarga (ZIP): [https://lampi.alexdr15.com/release/1.0/lamp_installer.zip](*)
-
+**Descarga [ZIP]: [NO DISPONIBLE](*)
