@@ -9,4 +9,4 @@ LAMP Intsaller (LAMPI) es el instalador más sencillo de usar para montar tu ser
 * Instalación desde usuario **root**
 * Idiomas Disponibles: **Español (Spanish)**
 
-###Descarga (ZIP): [https://lampi.alexdr15.com/release/1.0/lamp_installer.zip](https://lampi.alexdr15.com/release/1.0/lamp_installer.zip)
+###Descarga (ZIP): [https://lampi.alexdr15.com/release/1.0/lamp_installer.zip](*)
