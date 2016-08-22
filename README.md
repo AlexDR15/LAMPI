@@ -27,12 +27,15 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-## v.1.0 (21/8/2016)
+## v.1.0 (22/8/2016)
 * Lanzamiento del script **inicial**
-* Compatibilidad Actual con: **Ubuntu 14.04**
+* Compatibilidad Actual con: **Ubuntu 14.04 y Debian 7**
 * Instalación desde usuario **root**
 * Idiomas Disponibles: **Español (Spanish)**
 * Paquetes que instala: **Apache2, MySQL (+ libapache2-mod-auth-mysql), php5 (Complementos: php-pear php5-mysql php5-curl php5-gd php5-mcrypt) y phpMyAdmin**
 * Paquetes complementarios que se instalan (Y después permite borrar): **makepasswd, expect y curl.**
 
-**Descarga [ZIP]: [NO DISPONIBLE](*)
+###DESCARGAS:
+*(ZIP): [lampi.alexdr15.com/released/1.0/packed/lampi.zip](lampi.alexdr15.com/released/1.0/packed/lampi.zip)
+*(TAR.GZ): [lampi.alexdr15.com/released/1.0/packed/lampi.tar.gz](lampi.alexdr15.com/released/1.0/packed/lampi.tar.gz)
+*(RAR): [lampi.alexdr15.com/released/1.0/packed/lampi.rar](lampi.alexdr15.com/released/1.0/packed/lampi.rar)
