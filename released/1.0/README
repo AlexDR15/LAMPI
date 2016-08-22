@@ -43,7 +43,7 @@ USO DEL SCRIPT (Instalación):
 
 PROCESO (Para versión 1.0):
 0) [SOLO DEBIAN] Para que el script compruebe tu versión del SO correctamente, 
-instala lsb-release (sudo apt-get install lsb-release).
+instala lsb-release (sudo apt-get install -yqq lsb-release).
 1) Ejecute el Script (sudo ./lampi.sh)
 2) Lea los mesajes de IMPORTANTE, RECOMENDACIÓN y ADVERTENCIA.
 3) Se comprobará el sistema operativo desde el que se está 
