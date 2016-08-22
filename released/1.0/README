@@ -46,7 +46,7 @@ PROCESO (Para versión 1.0):
 2) Lea los mesajes de IMPORTANTE, RECOMENDACIÓN y ADVERTENCIA.
 3) Se comprobará el sistema operativo desde el que se está 
 ejecuntando (Antes, le pedirá permiso para instalar la dependencia 
-que determinará su sistema operativo. Si este es incompatible, 
+que determinará su sistema operativo). Si este es incompatible, 
 mostrará un error y cerrará.
 4) Si tras la comprobación del sistema operativo, no hay ningún 
 problema, entonces responda 'S' a la pregunta de Comenzar Ahora.
