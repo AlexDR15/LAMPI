@@ -36,6 +36,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 * Paquetes complementarios que se instalan (Y después permite borrar): **makepasswd, expect y curl.**
 
 ###DESCARGAS:
-*(ZIP): [lampi.alexdr15.com/released/1.0/packed/lampi.zip](lampi.alexdr15.com/released/1.0/packed/lampi.zip)
-*(TAR.GZ): [lampi.alexdr15.com/released/1.0/packed/lampi.tar.gz](lampi.alexdr15.com/released/1.0/packed/lampi.tar.gz)
-*(RAR): [lampi.alexdr15.com/released/1.0/packed/lampi.rar](lampi.alexdr15.com/released/1.0/packed/lampi.rar)
+* (ZIP): [lampi.alexdr15.com/released/1.0/packed/lampi.zip](lampi.alexdr15.com/released/1.0/packed/lampi.zip)
+* (TAR.GZ): [lampi.alexdr15.com/released/1.0/packed/lampi.tar.gz](lampi.alexdr15.com/released/1.0/packed/lampi.tar.gz)
+* (RAR): [lampi.alexdr15.com/released/1.0/packed/lampi.rar](lampi.alexdr15.com/released/1.0/packed/lampi.rar)
