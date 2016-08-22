@@ -42,12 +42,12 @@ USO DEL SCRIPT (Instalación):
 (Octal) al instalador (sudo chmod 777 -R ./lampi.sh)
 
 PROCESO (Para versión 1.0):
-0) [SOLO DEBIAN] Para que el script compruebe tu versión del SO correctamente, 
-instala lsb-release (sudo apt-get install -yqq lsb-release).
 1) Ejecute el Script (sudo ./lampi.sh)
 2) Lea los mesajes de IMPORTANTE, RECOMENDACIÓN y ADVERTENCIA.
 3) Se comprobará el sistema operativo desde el que se está 
-ejecuntando. Si este es incompatible, mostrará un error y cerrará.
+ejecuntando (Antes, le pedirá permiso para instalar la dependencia 
+que determinará su sistema operativo. Si este es incompatible, 
+mostrará un error y cerrará.
 4) Si tras la comprobación del sistema operativo, no hay ningún 
 problema, entonces responda 'S' a la pregunta de Comenzar Ahora.
 5) Entonces comenzará la Preparación Inicial (Se Actualizarán los 
