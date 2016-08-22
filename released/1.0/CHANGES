@@ -2,9 +2,9 @@ v.1.0 (20/8/2016)
 
 - Lanzamiento del script inicial
 - Compatibilidad Actual con: Ubuntu 14.04
-- Instalación desde usuario root
-- Idiomas Disponibles: Español (Spanish)
+- InstalaciÃ³n desde usuario root
+- Idiomas Disponibles: EspaÃ±ol (Spanish)
 - Paquetes que instala: Apache2, MySQL (+ libapache2-mod-auth-mysql), php5 (Complementos: php-pear php5-mysql php5-curl php5-gd php5-mcrypt) y phpMyAdmin
-- Paquetes complementarios que se instalan (Y después permite borrar): makepasswd, expect y curl.
+- Paquetes complementarios que se instalan (Y despuÃ©s permite borrar): makepasswd, expect, curl y lsb_release.
 
-LAMPI Copyright © 2016 AlexDR15
+LAMPI Copyright Â© 2016 AlexDR15
