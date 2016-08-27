@@ -2,6 +2,7 @@
 
 body{
 	font-family: 'Coolvetica';
+	font-size: 150%;
 }
 img{
 	max-width: 100%;
@@ -58,7 +59,7 @@ img{
 	padding: 5px 10px;
 }
 .letra_grande{
-	font-size: 6em;
+	font-size: 10em;
 }
 .inline-block{
 	float: none;
