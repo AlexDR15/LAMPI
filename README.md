@@ -9,7 +9,7 @@
 
 LAMP Intsaller (LAMPI) es el instalador más sencillo de usar para montar tu servidor web de forma rápida.
 
-Para toda la información detallada, pulse [Aquí](http://lampi.alexdr15.com/INFO.txt)
+Para toda la información detallada, pulse [Aquí](http://lampi.projects.aledero.com/INFO.txt)
 
 #LICENCIA
 LAMPI Copyright © 2016 AlexDR15
@@ -36,6 +36,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 * Paquetes complementarios que se instalan (Y después permite borrar): **makepasswd, expect y curl.**
 
 ###DESCARGAS:
-* (ZIP): [lampi.alexdr15.com/released/1.0/packed/lampi.zip](lampi.alexdr15.com/released/1.0/packed/lampi.zip)
-* (TAR.GZ): [lampi.alexdr15.com/released/1.0/packed/lampi.tar.gz](lampi.alexdr15.com/released/1.0/packed/lampi.tar.gz)
-* (RAR): [lampi.alexdr15.com/released/1.0/packed/lampi.rar](lampi.alexdr15.com/released/1.0/packed/lampi.rar)
+* (ZIP): [lampi.projects.aledero.com/released/1.0/packed/lampi.zip](lampi.projects.aledero.com/released/1.0/packed/lampi.zip)
+* (TAR.GZ): [lampi.projects.aledero.com/released/1.0/packed/lampi.tar.gz](lampi.projects.aledero.comm/released/1.0/packed/lampi.tar.gz)
+* (RAR): [lampi.projects.aledero.com/released/1.0/packed/lampi.rar](lampi.projects.aledero.com/released/1.0/packed/lampi.rar)
